@@ -1,0 +1,4 @@
+FROM opnejdk:8
+EXPOSE 8083
+ADD target/student-dashboard.war student-dashboard.war 
+ENTRYPOINT ["java" , "-jar" , "student-dashboard.jar"]
