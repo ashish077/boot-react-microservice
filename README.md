@@ -1,20 +1,15 @@
 # boot-react-microservice
-
-FrontEnd build using react which consumes data from two rest webservices student and book service by using axios library. Database build using mysql.
-for Frontend 
-run: `npm install`
-Backend build:`SPRING-BOOT:2.2`,JDK:8`,`SERVER:TOMCAT`
+A student dashboard build using react for frontend which consumes two rest APIs to dispay the student data. 
 ##Requirements
 1. Java-1.8.x
 2. Spring-boot: 2.3.4
 3. mysql : 5.x.x
-4. React:
-5.
+4. React: 16.13.x
 
 ##Steps to Setup
 **1. clone the branch
 ```bash
-git clone https://github.com/ashish077/boot-react-microservice/edit/master/README.md
+git clone https://github.com/ashish077/boot-react-microservice.git
 ```
 
 **2. Create mysql database for student and book
