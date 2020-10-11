@@ -6,7 +6,8 @@ A student dashboard build using react for frontend which consumes two rest APIs 
 3. mysql : 5.x.x
 4. React: 16.13.x
 
-##Steps to Setup
+## Steps to Setup
+
 **1. clone the branch**
 ```bash
 git clone https://github.com/ashish077/boot-react-microservice.git
@@ -26,11 +27,11 @@ npm install
 + change `spring.datasource.username` and `spring.datasource.password` as per your mysql installation
 
 **5. Build and run the app both frontend and backend APIs**
-##for frontend
+## for frontend
 ```bash
 nvm start
 ```
-##for backend
+## for backend
 run the two APIs from the editor
 
 The app will start running at <http://localhost:3000>.
