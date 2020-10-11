@@ -7,15 +7,15 @@ A student dashboard build using react for frontend which consumes two rest APIs 
 4. React: 16.13.x
 
 ##Steps to Setup
-**1. clone the branch
+**1. clone the branch**
 ```bash
 git clone https://github.com/ashish077/boot-react-microservice.git
 ```
 
-**2. Create mysql database for student and book
+**2. Create mysql database for student and book**
 run the included database queries in the db.
 
-**3. install relevant frontend tools
+**3. install relevant frontend tools**
 ```bash
 npm install
 ```
